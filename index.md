@@ -17,7 +17,7 @@ I learn by building. Apps, tools, notebooks — open source when I can.
 A gamified step counter. Walk, earn XP, level up from Walker to Dragon Lord.
 
 [App](https://step.quest.mqqn.net) ·
-[Blog](/step_quest/) ·
+[Blog](#devops--infrastructure) ·
 [Source](https://github.com/aaronjohnson/step_quest)
 
 ### Ocean Data Platform
@@ -42,7 +42,7 @@ AI co-pilot for complex paperwork. A Choose Your Own Adventure toolkit for multi
 - [Dask Patterns for Large Ocean Datasets](posts/dask-ocean-patterns.html)
 
 ### AI-Assisted Development
-- [Claude Code Skills: Teaching Your AI Your Codebase](/step_quest/blog/claude-code-skills.html)
+- [Claude Code Skills: Teaching Your AI Your Codebase](posts/claude-code-skills.html)
 - [Claude Skills for Scientific Notebooks](posts/claude-skills-science.html)
 - [Building a Claude Skills Library Across Projects](posts/claude-skills-library.html)
 - [From Notebooks to Production: Claude-Assisted Refactoring](posts/notebooks-to-production.html)
@@ -53,9 +53,9 @@ AI co-pilot for complex paperwork. A Choose Your Own Adventure toolkit for multi
 - [Multi-Section Document Navigation with AI](posts/document-navigation-ai.html)
 
 ### DevOps & Infrastructure
-- [Keyless CI: Workload Identity Federation](/step_quest/blog/workload-identity-federation.html)
-- [Firebase API Keys Aren't Secrets](/step_quest/blog/firebase-api-key-security.html)
-- [Dwarf Fortress-Style Changelogs](/step_quest/blog/dwarf-fortress-changelogs.html)
+- [Keyless CI: Workload Identity Federation](posts/workload-identity-federation.html)
+- [Firebase API Keys Aren't Secrets](posts/firebase-api-key-security.html)
+- [Dwarf Fortress-Style Changelogs](posts/dwarf-fortress-changelogs.html)
 
 ---
 

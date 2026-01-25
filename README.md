@@ -12,11 +12,11 @@ This repo serves as the hub linking to project-specific blogs:
 
 | Project | Blog | Source |
 |---------|------|--------|
-| Step Quest | [/step_quest/](https://aaronjohnson.github.io/step_quest/) | [repo](https://github.com/aaronjohnson/step_quest) |
+| Step Quest | [hub](https://aaronjohnson.github.io/#devops--infrastructure) | [repo](https://github.com/aaronjohnson/step_quest) |
 | Ocean Data | [hub](https://aaronjohnson.github.io/#ocean--geospatial) | [repo](https://github.com/aaronjohnson/C4IROcean-OceanDataPlatform) |
 | Form Copilot | [hub](https://aaronjohnson.github.io/#form-copilot-1) | [repo](https://github.com/aaronjohnson/form-copilot) |
 
-Step Quest has its own `/docs` blog. Ocean Data and Form Copilot posts live in the hub's `/posts` folder. The hub indexes everything.
+All blog posts live in the hub's `/posts` folder, organized by topic in the index.
 
 ## Tech
 
