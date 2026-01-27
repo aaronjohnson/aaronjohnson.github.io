@@ -20,6 +20,11 @@ A gamified step counter. Walk, earn XP, level up from Walker to Dragon Lord.
 [Blog](#devops--infrastructure) ·
 [Source](https://github.com/aaronjohnson/step_quest)
 
+### Digital Forester
+Tree identification and timber assessment for landowners and foresters.
+
+[App](https://forester.mqqn.net)
+
 ### Ocean Data Platform
 Tutorials for oceanographic data: STAC discovery, H3 geospatial analysis, data pipelines.
 
