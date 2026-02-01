@@ -69,5 +69,7 @@ AI co-pilot for complex paperwork. A Choose Your Own Adventure toolkit for multi
 
 ## Connect
 
+[Resume](resume.html) ·
 [GitHub](https://github.com/aaronjohnson) ·
+[LinkedIn](https://www.linkedin.com/in/aaronmarkjohnson/) ·
 [Patreon](https://patreon.com/mqqn)
