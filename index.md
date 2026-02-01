@@ -52,6 +52,9 @@ AI co-pilot for complex paperwork. A Choose Your Own Adventure toolkit for multi
 - [Building a Claude Skills Library Across Projects](posts/claude-skills-library.html)
 - [From Notebooks to Production: Claude-Assisted Refactoring](posts/notebooks-to-production.html)
 
+### AI Safety & Evaluation
+- [When the AI Safety Net Catches the Wrong Fish](posts/reward-hacking-false-positives.html)
+
 ### Form Copilot
 - [Choose Your Own Adventure: AI for Complex Forms](posts/form-copilot-cyoa.html)
 - [Config-Driven Claude: Schema-Based Prompting](posts/config-driven-claude.html)
