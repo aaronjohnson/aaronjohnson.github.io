@@ -16,6 +16,9 @@ What I discovered wasn't a way to cheat. Instead, I found something more interes
 
 The task sounds simple: compute a prefix sum where each position is accumulated only if the count of positive values before it is odd. My approach was straightforward—implement a correct solution, then systematically optimize it.
 
+![Work-Depth Diagram](images/work_depth_diagram.png)
+*Parallel prefix sum: trading off work and depth for GPU efficiency.*
+
 Working with Claude as a coding partner, we explored:
 
 - Block size tuning (128, 256, 512, 1024)
@@ -66,6 +69,9 @@ Most AI safety discussions focus on false negatives—the scary scenario where h
 ## What We Learned About Optimization
 
 Beyond the detection quirks, the exploration itself was valuable. Some findings:
+
+![Roofline Model - GPU Performance Limits](images/roofline_model.png)
+*The roofline model shows why prefix sum is memory-bound: low arithmetic intensity means we hit the bandwidth ceiling, not compute.*
 
 **Defaults are often optimal.** Triton's default parameters (`num_warps=4`, no `num_stages`) consistently outperformed our "optimizations." The compiler writers know what they're doing.
 
